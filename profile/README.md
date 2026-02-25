@@ -18,4 +18,4 @@ Nous développons **ClubSocial-App**, une application web permettant :
 | Repo | Description |
 |------|-------------|
 | [clubsocial-app](https://github.com/ClubSocial-Stx-Qc/clubsocial-app) | Application principale |
-| [clubsocial-app-tests](https://github.com/ClubSocial-Stx-Qc/clubsocial-app-tests) | Application initialement créer pour faire des tests de co-développements avec l'IA |
+| [clubsocial-app-tests](https://github.com/ClubSocial-Stx-Qc/clubsocial-app-tests) | Application initialement crée pour faire des tests de co-développements avec l'IA |
